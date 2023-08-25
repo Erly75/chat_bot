@@ -191,7 +191,7 @@ body{
 
 
 /* solo para el modelo responsivo, no movil */
-@media(max-width: 490px) {
+@media(max-width: 800px) {
     .chatbot {
         right: 0;
         bottom: 0;
